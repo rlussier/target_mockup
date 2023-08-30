@@ -1,0 +1,46 @@
+.banner {
+    background-color: $primary-color;
+    font-size: 12px;
+    color: white;
+    &_locationtracker {
+        display: flex;
+        ul {
+            display: inline-flex;
+            li {
+                padding: 8px 12px 8px 8px;
+            }
+            li:active {
+                border-radius: 8px;
+                border: 1px dashed white;
+                margin: 0px 4px;
+            }
+            a {
+                display: inline-flex;
+                span {
+                    display: inline-flex;
+                    margin: 0 8px;
+                }
+                span:active {
+                    text-decoration: underline;
+                } 
+            }
+        }
+    }
+    &_menu {
+        display: inline-flex;
+        padding: 10px;
+        li {
+        padding: 10px;
+        }
+        li:hover {
+            text-decoration: underline;
+        }
+    }
+    &_block {
+        width: 74%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}

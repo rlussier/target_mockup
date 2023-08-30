@@ -1,0 +1,40 @@
+.categories_block {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    h1 {
+        font-size: 32px;
+        font-weight: 700;
+        text-align: center;
+        padding: 10px;
+    }
+    &_list {
+        width: 80%;
+        margin: auto;
+        ul {
+            list-style: none;
+            padding: 10px;
+            display: inline-flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: auto;
+        }
+        li {
+            width: 200px;
+            margin: 24px;
+            text-align: center;
+        }
+        span {
+            font-size: 12px;
+        }
+        span:hover {
+            text-decoration: underline;
+        }
+        img {
+            border-radius: 50%;
+        }
+
+    }
+
+}

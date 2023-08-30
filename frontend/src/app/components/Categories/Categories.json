@@ -1,0 +1,112 @@
+[ 
+    {
+
+        "CategoryId": "1",
+        "CategoryName": "Ready for School",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/GUEST_d58fba57-8c5a-473c-b491-552e335f00dd?wid=315&hei=315&qlt=60&fmt=webp"
+
+    },
+    {
+      
+        "CategoryId": "2",
+        "CategoryName": "College Shop",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/GUEST_29cc46af-a64d-4d55-9826-51d734094ddb?wid=315&hei=315&qlt=60&fmt=webp"
+        
+    },
+    {
+
+        "CategoryId": "3",
+        "CategoryName": "Halloween",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/GUEST_ba00854d-349d-46bd-b0ee-9671060a5207?wid=315&hei=315&qlt=60&fmt=webp"
+    },
+    {
+
+        "CategoryId": "4",
+        "CategoryName": "Women's",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/GUEST_4f96bf23-0820-46d2-aa60-8306a69b9713?wid=315&hei=315&qlt=60&fmt=webp"
+    },
+    {
+       
+        "CategoryId": "5",
+        "CategoryName": "Men's",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/GUEST_34b75b57-16bf-4bdc-9e88-c6aab6d795df?wid=315&hei=315&qlt=60&fmt=webp"
+        
+    },
+    {  
+        "CategoryId": "6",
+        "CategoryName": "Kids'",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/GUEST_6f6ad0f3-3d86-4656-8470-5826495733a4?wid=315&hei=315&qlt=60&fmt=webp"
+  
+    },
+    {
+       
+        "CategoryId": "7",
+        "CategoryName": "Baby",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/Baby-210913-1631564062108?wid=315&hei=315&qlt=60&fmt=webp"
+        
+    },
+    {  
+        "CategoryId": "8",
+        "CategoryName": "Home",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/Furniture-210913-1631566212856?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    },
+    {  
+        "CategoryId": "9",
+        "CategoryName": "Patio & Garden",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/PatioGarden-210913-1631564082284?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    },
+    {  
+        "CategoryId": "10",
+        "CategoryName": "Kitchen & Dining",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/KitchenDining-210913-1631564122569?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    },
+    {  
+        "CategoryId": "11",
+        "CategoryName": "Beauty",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/Beauty181103-190722_1563828945271?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    },
+    { 
+        "CategoryId": "12",
+        "CategoryName": "Video Games",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/Sept_Wk5-0930-Video_Games-Nintendo-CB-Consoles143381-180910_1536591280324?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    },
+    { 
+        "CategoryId": "13",
+        "CategoryName": "Toys",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/Toys219475-200305_1583423532760?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    },
+    {  
+        "CategoryId": "14",
+        "CategoryName": "Sports & Outdoors",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/Sports_Outdoors219475-200305_1583425943604?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    },
+    {  
+        "CategoryId": "15",
+        "CategoryName": "Apple",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/GUEST_e3b11a2a-a085-4693-853f-c19e52073c94?wid=315&hei=315&qlt=60&fmt=webp"
+    },
+    {  
+        "CategoryId": "16",
+        "CategoryName": "Grocery",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/Grocery219475-200305_1583423555572?wid=315&hei=315&qlt=60&fmt=webp"
+    },
+    {  
+        "CategoryId": "17",
+        "CategoryName": "Household Essentials",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/HouseholdEssentials_Tide-200519-1589915606672?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    },
+    {  
+        "CategoryId": "18",
+        "CategoryName": "Clearance",
+        "CategoryImg": "https://target.scene7.com/is/image/Target/clearance97188-171020_1508525411214?wid=315&hei=315&qlt=60&fmt=webp"
+    
+    }
+]
