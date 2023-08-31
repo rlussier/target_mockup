@@ -18,4 +18,4 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![Screenshot 2023-08-31 at 08-56-24 Target Mockup](https://github.com/rlussier/target_mockup/assets/22923757/3bb8d73d-0c78-4090-ab82-0ce65ee8a698)
+![Screenshot 2023-08-31 at 17-40-27 Target Mockup](https://github.com/rlussier/target_mockup/assets/22923757/ffd449e0-518c-4751-815b-d77042b9d1fd)
