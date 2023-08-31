@@ -1,7 +1,7 @@
 .banner {
     background-color: $primary-color;
     font-size: 12px;
-    color: white;
+    color: $secondary-textColor;
     &_locationtracker {
         display: flex;
         ul {
@@ -11,7 +11,7 @@
             }
             li:active {
                 border-radius: 8px;
-                border: 1px dashed white;
+                border: 1px dashed $secondary-textColor;
                 margin: 0px 4px;
             }
             a {
