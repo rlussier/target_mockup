@@ -1,4 +1,3 @@
-// import Image from 'next/image'
 import styles from './styles/scss/styles.module.scss';
 import Categories from './components/Categories/Categories';
 
@@ -6,8 +5,6 @@ export default function Home() {
   return (
     <main className="main_container">
       <div className="main_contianer-block">
-    {/* <main className="flex min-h-screen flex-col items-center justify-between p-24">
-    <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex"> */}
           <div className={styles.container}>
             <div className={styles.container_block}>
               <div className={styles.container_block_1}>
