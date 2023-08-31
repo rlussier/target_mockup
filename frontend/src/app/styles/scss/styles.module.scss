@@ -3,16 +3,19 @@
 @import './Banner/banner';
 @import './Footer/footer';
 @import './Categories/categories';
+@import './Newsletter/newsletter';
 
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+
     &_block {
         display: block;
         width: 65%;
         margin: auto;
+
         &_1,
         &_2 {
             margin: 10px auto;
