@@ -1,0 +1,41 @@
+.newsletter {
+
+    &_block {
+        flex-direction: row;
+        margin: 24px auto;
+        padding: 24px;
+        span {
+            font-size: 18px;
+            margin: 10px;
+        }
+        input {
+            border: 1px solid $primary-textColor;
+            border-radius: 2px;
+            padding: 10px;
+        }
+        button {
+            background-color: $primary-color;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+            color: $secondary-textColor;
+            font-weight: 700;
+        }
+        a {
+            padding: 10px;
+          
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    }
+    &_offerDetails {
+        text-align: center;
+        span {
+            font-size: 12px;
+        }
+        span:hover {
+            text-decoration: underline;
+        }
+    }
+}
