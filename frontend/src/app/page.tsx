@@ -1,5 +1,6 @@
 import styles from './styles/scss/styles.module.scss';
 import Categories from './components/Categories/Categories';
+import Newsletter from './components/Newsletter';
 
 export default function Home() {
   return (
@@ -30,6 +31,7 @@ export default function Home() {
 
       </div>
       <Categories />
+      <Newsletter />
     </main>
   )
 }
