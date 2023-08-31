@@ -37,36 +37,60 @@ export const Navbar = () => {
         <Link href="/">Categories
           <FaChevronDown size={12} id={styles.caret} />
         </Link>
-  
-      </li>
-      {/* </ul> */}
-         <div className={styles.navbar_links_dropdown}>
+        <div className={styles.navbar_links_dropdown}>
          {useDropdownVisible && (
           <ul>
-     
             <li>
               <Link href="/college">College</Link>
             </li>
             <li>
               <Link href="/readyforschool">Ready for School</Link>
-            </li>
-             
+            </li>     
           </ul>
               )}
          </div>
-   
-      <li>
-        <Link href="/whatsnew">What's New
+      </li>
+      <li onClick={toggleUseDropdown}>
+        <Link href="/">What's New
           <FaChevronDown size={12} id={styles.caret} />
         </Link>
+        <div className={styles.navbar_links_dropdown}>
+         {useDropdownVisible && (
+          <ul>
+            <li>
+              <Link href="/college">Target New Arrivals</Link>
+            </li>
+            <li>
+              <Link href="/readyforschool">Target Finds</Link>
+            </li>    
+            <li>
+              <Link href="/targetstyle">#TargetStyle</Link>
+            </li>  
+          </ul>
+              )}
+         </div>
       </li>
-        <li>
-      <Link href="/pickup&delivery">Pickup & Delivery
+        <li onClick={toggleUseDropdown}>
+      <Link href="/">Pickup & Delivery
         <FaChevronDown size={12} id={styles.caret} />
       </Link>
+      <div className={styles.navbar_links_dropdown}>
+         {useDropdownVisible && (
+          <ul>
+            <li>
+              <Link href="/college">Shop Order Pickup</Link>
+            </li>
+            <li>
+              <Link href="/readyforschool">Shop Same Day Delivery</Link>
+            </li>    
+          </ul>
+              )}
+         </div>
         </li>
     </ul>
+
     </div>
+    
     <div className={styles.navbar_search}>
     <input
           className="searchbar"
